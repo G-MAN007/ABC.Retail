@@ -135,7 +135,7 @@ Choose Azure as the target and select Azure App Service (Windows).
 
 Create a new App Service instance or select an existing one. It's recommended to use the same Resource Group you created for the storage account.
 
-The name you give the App Service will determine its URL (e.g., your-app-name.azurewebsites.net).
+The name you give the App Service will determine its URL (https://st10161873-dvcyayf6dpg9buhe.canadacentral-01.azurewebsites.net/).
 
 Click Publish. Visual Studio will handle the deployment process.
 
